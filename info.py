@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'DMFilterBot')
 API_ID = int(environ.get('API_ID', '26626715'))
 API_HASH = environ.get('API_HASH', '967f1c73aa77a29009bc364edd30b525')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7400707493:AAGbj53YNBBzYmVw_oqZUS1j3kkBPWyA_Os")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
